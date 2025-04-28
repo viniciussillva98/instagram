@@ -15,14 +15,22 @@ body {
     font-family: serif;
 
 }
-
+.caixa-imagens{
+    position: relative;
+}
 .insta-logo {
     margin-bottom: 20px;
 }
 
 .imagem-celular {
 
-    width: 520px;
+    width: 450px;
+}
+.imageminsta1-2 {
+height: 520px;
+position: absolute;
+left: 152px;
+top: 27px;
 }
 
 .caixa-form {
