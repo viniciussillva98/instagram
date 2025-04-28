@@ -1,6 +1,6 @@
 <h1>Intagram</h1>
 <br>
-<h2>Esse foi um projeto que eu aprendi no >DevClub</h2>
+<h2>Esse foi um projeto que eu aprendi no DevClub</h2>
 <br>
 <h2>Tecnologias ultilizadas:</h2>
 <br>
